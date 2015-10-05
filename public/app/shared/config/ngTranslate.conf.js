@@ -61,7 +61,7 @@
 			FIRST_NAME: "First Name",
 			MIDDLE_NAME: "Middle Name",
 			LAST_NAME: "Last Name",
-			BIRTHDAY: "Birthday",
+			BIRTHDAY: "ᐃᓅᓕᕐᕕᒃ",
 			EMAIL_ADDRESS: "Email Address",
 			PUBLIC: "Public",
 			IDENTITY_VERIFIED: "Identity Verified",
@@ -74,7 +74,7 @@
 			EDIT_YOUR_PUBLIC_PROFILE: "Edit your public profile",
 			VOTING_HISTORY: "Voting History",
 			//motion state
-			INTRODUCTION: "Introduction",
+			INTRODUCTION: "ᓇᓗᓇᐃᔭᐃᓂᖅ ",
 			DETAILS: "Details",
 			CLOSED: "Closed",
 			OPEN: "Open",
