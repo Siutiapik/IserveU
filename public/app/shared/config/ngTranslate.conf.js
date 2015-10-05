@@ -33,7 +33,7 @@
 			Home: "Home",
 			Background_Images: "Background Images", 
 			//home state
-			WELCOME: "Welcome!",
+			WELCOME: "ᑐᖓᓱᒋᑦ!",
 			YOUR_VOTES: "Your Votes",
 			YOUR_COMMENTS: "Your Comments",
 			CURRENTLY_PASSING: "Currently Passing",
@@ -51,7 +51,7 @@
 			OK: "Okay",
 			CANCEL: "Cancel",
 			ACTIVE: "Active",
-			ADD: "Add",
+			ADD: "ᐃᓚᒌᓕᐅᑎᕚ ",
 			EDIT: "Edit",
 			DELETE: "Delete",
 			SAVE: "Save",
